@@ -1,0 +1,13 @@
+target/
+*.class
+*.log
+.classpath
+.project
+.settings/
+.sts4-cache/
+.idea/
+.vscode/
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+.env
